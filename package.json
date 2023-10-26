@@ -1,5 +1,5 @@
 {
-  "name": "content-wind-template",
+  "name": "my-cv-created-by-nuxt-studio",
   "private": true,
   "scripts": {
     "dev": "nuxi dev",
@@ -8,6 +8,7 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
+    "@nuxthq/studio": "^1.0.2",
     "content-wind": "latest",
     "nuxt": "latest"
   },
