@@ -1,6 +1,6 @@
 # RYO CV
 
-Website URL: https://nuxt-studio.vercel.app/
+Website URL: https://portfolio-ryocv.vercel.app/
 
 My website made by [Content Wind](https://content-wind.nuxt.space) theme.
 
